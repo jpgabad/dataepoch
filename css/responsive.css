@@ -559,6 +559,13 @@ EXTRA SMALL DEVICES (PORTRAIT PHONES, LESS THAN 576px)
     top: -130px;
   }
 
+  
+  .the-anchor3 {
+    position: relative;
+    top: -150px;
+  }
+
+
 }
 
 
@@ -761,6 +768,18 @@ SMALL DEVICES (LANDSCAPE PHONES, 576PX AND UP)
     position: relative;
     top: -120px !important;
   }
+
+  .the-anchor2 {
+    position: relative;
+    top: -150px;
+  }
+  
+  
+  .the-anchor3 {
+    position: relative;
+    top: -150px;
+  }
+
 }
 
 
@@ -858,6 +877,18 @@ MEDIUM DEVICES (TABLETS, 768px and Up)
     position: relative;
     top: -120px;
   }
+  
+  .the-anchor2 {
+    position: relative;
+    top: -150px;
+  }
+  
+  
+  .the-anchor3 {
+    position: relative;
+    top: -150px;
+  }
+
 }
 
 
@@ -898,6 +929,13 @@ LARGE DEVICES (DESKTOPS, 992px and Up)
         position: relative;
         top: -150px;
       }
+
+
+      .the-anchor {
+        position: relative;
+        top: -190px;
+      }
+    
 }
 
 
