@@ -882,6 +882,22 @@ LARGE DEVICES (DESKTOPS, 992px and Up)
         clip-path: polygon(0% 0%, 60% 0%, 66% 30%, 100% 30%, 100% 100%, 0% 100%);
     }
 		
+    .the-anchor {
+        position: relative;
+        top: -190px;
+      }
+        
+      
+      .the-anchor2 {
+        position: relative;
+        top: -150px;
+      }
+      
+      
+      .the-anchor3 {
+        position: relative;
+        top: -150px;
+      }
 }
 
 
@@ -906,6 +922,23 @@ LARGE DEVICES (DESKTOP, 1001 Up)
     .services-section6 {
         clip-path: polygon(0% 0%, 60% 0%, 66% 30%, 100% 30%, 100% 100%, 0% 100%);
     }
+
+    .the-anchor {
+        position: relative;
+        top: -190px;
+      }
+        
+      
+      .the-anchor2 {
+        position: relative;
+        top: -150px;
+      }
+      
+      
+      .the-anchor3 {
+        position: relative;
+        top: -150px;
+      }
 }
 
 
@@ -913,5 +946,20 @@ LARGE DEVICES (DESKTOP, 1001 Up)
 EXTRA LARGE DEVICES (LARGE DESKTOPS, 1200px and Up)
 ********************************************************************/
 @media (min-width: 1200px) { 
-  
+    .the-anchor {
+        position: relative;
+        top: -190px;
+      }
+        
+      
+      .the-anchor2 {
+        position: relative;
+        top: -150px;
+      }
+      
+      
+      .the-anchor3 {
+        position: relative;
+        top: -150px;
+      }
 }
