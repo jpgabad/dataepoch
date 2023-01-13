@@ -1,0 +1,114 @@
+.home-header{
+    
+    background: #2B5C71;
+    background: linear-gradient(180deg, #2B5C71 0%, #101B28 100%); 
+    margin-top: 99.54px;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* margin-bottom: 165px; */
+    padding-top: 55px;
+    padding-bottom: 65px;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 86%, 90% 99%, 10% 99%, 0% 86%);
+}
+
+.home-header .__svg svg{
+    margin: auto;
+}
+
+.home-header h1{
+    color: var(--white);
+    text-align: center;
+}
+
+.home-header p{
+    margin-top: .5rem;
+    text-align: center;
+    color: var(--white);
+}
+
+
+.home-section1{
+    
+}
+
+
+.home-section2 h2{
+    color: var(--color3);
+}
+
+.home-section4 h5,
+.home-section4 p{
+    color: var(--white);
+}
+
+.home-section4 {
+
+    clip-path: polygon(0% 0%, 42% 0%, 46% 30%, 100% 30%, 100% 100%, 0% 100%);
+    padding-bottom: 3rem;
+    background-color: var(--color3);
+}
+
+
+.home-section5 .__hexa-container-dark{
+    background-color: var(--color3);
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+    display: block;
+    width: 280px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-section5 .__hexa-container-light{
+    background-color: var(--color1);
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+    display: block;
+    width: 280px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.home-section5 .__hexa-container-dark img{
+    margin-top: -1rem;
+    margin-bottom: .5rem;
+}
+
+
+.home-section5 .__hexa-container-dark p {
+    text-align: center;
+    color: var(--white);
+}
+
+
+
+.home-section5 .__hexa-container-light img{
+    margin-top: -1rem;
+    margin-bottom: .5rem;
+}
+
+
+.home-section5 .__hexa-container-light p {
+    text-align: center;
+    color: var(--white);
+}
+
+
+
+.home-section5 .__lg{
+    
+}
+
+.home-section5 .__md{
+    display: none;
+}
